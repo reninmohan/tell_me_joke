@@ -4,12 +4,12 @@
     margin: 0;
 }
 .bg-canvas{
-    background-color: #FEC7B4;
-    height: 100vh;
     padding:12em;
 }
 
+
 body{
+      background-color: #FEC7B4;
     font-family: "Poppins", sans-serif;
     color: white;
 }
