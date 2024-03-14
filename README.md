@@ -1,6 +1,6 @@
 # Random Joke Generator
 
-# This is a simple frontend application that generates a random joke when the refresh button is clicked.
+- This is a simple frontend application that generates a random joke when the refresh button is clicked.
 
 # Bulit using
 - HTML
