@@ -10,7 +10,7 @@
 
 
 body{
-      background-color: #FEC7B4;
+    background-color: #FEC7B4;
     font-family: "Poppins", sans-serif;
     color: white;
     background-color: #FEC7B4;
@@ -46,4 +46,7 @@ button{
     .bg-canvas{
         padding: 10em 2em;
     }
+
+    .container{
+        padding: 5em;
 }
