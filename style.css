@@ -4,14 +4,14 @@
     margin: 0;
 }
 .bg-canvas{
-    background-color: #FEC7B4;
     height: 100vh;
-    padding:12em;
+    padding:10em;
 }
 
 body{
     font-family: "Poppins", sans-serif;
     color: white;
+    background-color: #FEC7B4;
 }
 
 .container{
@@ -23,7 +23,7 @@ body{
     margin: 0 auto;
     max-width: 750px;
     border-radius: 15px;
-    padding: 10em;
+    padding: 5em;
     gap:3em;
 
 }
